@@ -19,7 +19,7 @@
 	
 	<property name="app.name" value="boilerpipe" />
 	<property name="app.title" value="boilerpipe content extractor" />
-	<property name="app.version" value="1.2.0" />
+	<property name="app.version" value="1.2.1" />
     <property name="javadoc.version" value="1.2" />
 	<property name="app.javaversion" value="1.5" />
 	<property name="app.dir" value="." />
